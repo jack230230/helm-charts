@@ -1,0 +1,8 @@
+preInstalls:
+
+appConfig:
+  name: promtheus
+  type: helm
+  resourcePath: .
+
+svcConfigs:
