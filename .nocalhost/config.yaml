@@ -3,6 +3,6 @@ preInstalls:
 appConfig:
   name: promtheus
   type: helm
-  resourcePath: .
+  resourcePath: charts/prometheus
 
 svcConfigs:
